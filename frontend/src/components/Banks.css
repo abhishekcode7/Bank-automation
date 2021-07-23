@@ -1,0 +1,24 @@
+.Bank-container{
+    margin-top: 3px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.captcha{
+    margin-bottom: 3px;
+    margin-top: 3px;
+}
+.card-edits{
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+}
+.btn-submit{
+    margin-right: 40px;
+}
+/* .centerIt{
+    display: flex;
+    flex-direction: column;
+    max-width: 200px;
+    position: absolute;
+ } */
